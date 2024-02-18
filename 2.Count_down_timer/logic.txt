@@ -1,0 +1,4 @@
+created a count down function
+need to take input from user using form 
+that will provide flexibilty to set target date without going to code
+
