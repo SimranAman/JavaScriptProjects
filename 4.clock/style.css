@@ -1,0 +1,38 @@
+body{
+
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 50vh;
+}
+#heading{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-left: 50px;
+}
+#Clock{
+  
+height: 100px;
+width: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+#timer{
+    position: relative; 
+     font-size: 2rem;
+}
+ 
+.hour{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+
